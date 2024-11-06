@@ -9,7 +9,4 @@ The Pirate Museum is a digital museum experience designed to showcase the histor
 ## Features
 
 - **Pirate History:** Dive into the world of pirates from the Golden Age of Piracy to modern-day pirate tales.
-- **Interactive Exhibits:** Explore virtual pirate ships, treasure maps, and artifacts.
-- **Educational Content:** Learn about the lives of famous pirates, piracy laws, and the impacts of piracy on global trade and culture.
-- **Virtual Tour:** Take a guided tour through a variety of historical locations, including pirate-infested waters, port towns, and notorious pirate hideouts.
 - **3D Models:** View and interact with detailed 3D models of pirate ships, weapons, and treasures.
