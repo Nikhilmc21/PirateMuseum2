@@ -37,7 +37,7 @@ function addRelic(x, z, scene) {
     if (relics.length === 0) return;
 
     const randomIndex = Math.floor(Math.random() * relics.length);
-    const relicPath = `/assets/${relics.splice(randomIndex, 1)[0]}`;
+    const relicPath = `assets/${relics.splice(randomIndex, 1)[0]}`;
 
     const relic = document.createElement('a-entity');
     relic.setAttribute('gltf-model', relicPath);
